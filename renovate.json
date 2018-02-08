@@ -3,6 +3,6 @@
     "@ht2-labs:base"
   ],
   "recreateClosed": true,
-  "renvoateFork": true,
+  "renovateFork": true,
   "prHourlyLimit": 0
 }
